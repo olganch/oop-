@@ -1,0 +1,4 @@
+/Users/ambossador/Documents/lessons/lab_6/bin/Debug/lab_6.exe
+/Users/ambossador/Documents/lessons/lab_6/bin/Debug/lab_6.pdb
+/Users/ambossador/Documents/lessons/lab_6/obj/anycpu/Debug/lab_6.exe
+/Users/ambossador/Documents/lessons/lab_6/obj/anycpu/Debug/lab_6.pdb

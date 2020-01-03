@@ -1,0 +1,4 @@
+/Users/ambossador/Documents/lessons/lab_8/bin/Debug/lab_8.exe
+/Users/ambossador/Documents/lessons/lab_8/bin/Debug/lab_8.pdb
+/Users/ambossador/Documents/lessons/lab_8/obj/anycpu/Debug/lab_8.exe
+/Users/ambossador/Documents/lessons/lab_8/obj/anycpu/Debug/lab_8.pdb
