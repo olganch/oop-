@@ -1,0 +1,5 @@
+/Users/ambossador/Projects/Number4/Number4/bin/Debug/Number4.exe
+/Users/ambossador/Projects/Number4/Number4/bin/Debug/Number4.pdb
+/Users/ambossador/Projects/Number4/Number4/obj/Debug/Number4.csprojAssemblyReference.cache
+/Users/ambossador/Projects/Number4/Number4/obj/Debug/Number4.exe
+/Users/ambossador/Projects/Number4/Number4/obj/Debug/Number4.pdb
